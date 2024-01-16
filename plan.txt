@@ -1,0 +1,19 @@
+Create NPM Project
+
+Create Index, CSS, JavaScript Files
+
+Install dependencies, express, nodemon(dev dep.) --> -D flag
+express -> server side code handle karne k liye
+
+Create a express server (server.js)
+
+do frontend
+
+install socket.io, setup socket.io in server.js and clienct client.js
+
+client send message logic in client.js
+
+Receive message on server broadcast to all clients
+
+receive message on client and display it. scrollToBottom etc...
+

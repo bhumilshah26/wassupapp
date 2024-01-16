@@ -1,0 +1,23 @@
+html css js python java c/c++ flutter node.js express.js
+
+working in djs arya / unicode
+
+projects:
+flutter hotelbooking app (not fully completed)
+flutter weather app (completed)
+gui for sending and receving data telemetry points from an cansat satellite html css js Djs arya 
+python project of data visualization of e-commerce customer services using numpy pandas (completed)
+realtime chat application using socket.io (arya mein video dekhke karne bola although i understood: completed)
+notes app using node.js (only backend completed)
+weather app using node
+
+Education:
+SSC : Shakuntala Jain High School 91
+Hsc : JHC 89.83 
+
+lines hata 
+center text 
+column size kam karne
+adding git link for each
+api and library used in the project
+teams and committee involved in
